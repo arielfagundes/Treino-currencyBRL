@@ -5,4 +5,5 @@ function envioform() { //Executa a função
     const confirm = window.confirm(`${nome}, Sua pretensão salarial é: ${real}.`)
 }
 //Linha teste
+//Apagando linha teste
 
